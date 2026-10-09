@@ -200,7 +200,7 @@ L'article 13-3 institue, au sein du Conseil national, une commission de contrôl
 
 La procédure se déroule en trois temps. La commission instruit et adresse son rapport pour avis au Conseil. Le président du Conseil propose ensuite à la délibération du Conseil la transmission du rapport à l'autorité administrative chargée de la concurrence et de la consommation, « conformément aux dispositions de l'article 8-3 ». C'est enfin cette autorité qui dispose des pouvoirs de contrôle (art. 8-3, II) et, le cas échéant, de sanction (art. 17-1). La commission ne prononce donc aucune sanction ; son rôle est celui d'un filtre.
 
-La commission est paritaire : cinq représentants des titulaires de la carte, choisis selon les mêmes modalités que pour le Conseil (art. 13-2, 1°), et cinq représentants des associations de consommateurs agréées. Son président est désigné par le président du Conseil parmi les représentants des professionnels ; la présidence revient ainsi à un professionnel, alors que la parité assure l'équilibre des voix. Les membres sont nommés par arrêté conjoint des trois ministres. On relèvera que l'article 14, a bis), renvoie à une interdiction d'exercer prononcée « en application de l'article 13-8 », disposition qui ne figure pas dans le titre II bis dans la version consolidée de la source, laquelle s'arrête à l'article 13-4.
+La commission est paritaire : cinq représentants des titulaires de la carte, choisis selon les mêmes modalités que pour le Conseil (art. 13-2, 1°), et cinq représentants des associations de consommateurs agréées. Son président est désigné par le président du Conseil parmi les représentants des professionnels ; la présidence revient ainsi à un professionnel, alors que la parité assure l'équilibre des voix. Les membres sont nommés par arrêté conjoint des trois ministres. On relèvera que l'article 14, a bis), renvoie à une interdiction d'exercer prononcée « en application de l'article 13-8 », disposition qui, selon la source, a été abrogée à compter du 25 novembre 2018 avec l'ensemble de l'ancien chapitre II du titre II bis (articles 13-4-1 à 13-10) ; le titre II bis en vigueur s'arrête à l'article 13-4.
 
 ### Article 13-4
 
@@ -209,6 +209,120 @@ La commission est paritaire : cinq représentants des titulaires de la carte, ch
 > Un décret fixe les conditions d'application du présent titre.
 
 L'article 13-4 renvoie à un décret les conditions d'application du titre II bis, relatif au Conseil national de la transaction et de la gestion immobilières. Il s'agit d'un renvoi spécial, distinct du renvoi général de l'article 19 au décret en Conseil d'Etat ; le texte ne précise pas qu'il doit s'agir d'un décret en Conseil d'Etat, ce qui laisse au pouvoir réglementaire le choix de la forme. Relèvent notamment de ce décret la durée du mandat des membres, les règles de fonctionnement et de délibération du Conseil et de sa commission de contrôle, ainsi que les modalités de saisine de la commission au titre de l'article 13-3, que la loi ne fixe pas. La loi n'organise pas elle-même la procédure suivie devant le Conseil et sa commission, alors que ces organes peuvent, par la transmission de rapports à l'administration chargée de la concurrence et de la consommation (art. 8-3, I), être à l'origine de contrôles visant des professionnels déterminés ; les garanties de procédure applicables devant ces organes relèvent donc du décret.
+
+#### Chapitre Ier — Du Conseil national de la transaction et de la gestion immobilières
+
+### Article 13-2-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-2-1 relevait du chapitre Ier (« Du Conseil national de la transaction et de la gestion immobilières ») d'une version du titre II bis organisée en chapitres et sections, dont la source conserve les intitulés. Selon la source, il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, comme l'ensemble des articles de ces chapitres. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Le titre II bis en vigueur se compose des articles 13-1 à 13-4, relatifs à la mission, à la composition et à la commission de contrôle du Conseil national de la transaction et de la gestion immobilières.
+
+### Article 13-3-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-3-1 appartenait au même chapitre Ier que l'article 13-2-1, consacré au Conseil national de la transaction et de la gestion immobilières. Il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, qui n'en reproduit pas le texte. Sa numérotation le rattachait à l'article 13-3, qui institue, dans la version en vigueur, une commission de contrôle au sein du Conseil.
+
+### Article 13-3-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-3-2, dernier article du chapitre Ier de l'ancienne organisation du titre II bis, est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018. La source ne reproduit pas son contenu, que le commentaire ne reconstitue pas ; il est mentionné pour que la numérotation du titre II bis soit complète.
+
+#### Chapitre II — De la discipline des personnes exerçant de manière habituelle des activités de transaction et de gestion immobilières
+
+#### Section 1 — De la nature des manquements et des sanctions disciplinaires
+
+### Article 13-4-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-4-1 constituait la section 1 (« De la nature des manquements et des sanctions disciplinaires ») du chapitre II, consacré à la discipline des personnes exerçant de manière habituelle des activités de transaction et de gestion immobilières. Il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, avec l'ensemble du chapitre II (articles 13-4-1 à 13-10). Son contenu n'est pas reproduit. Depuis cette abrogation, la loi ne comporte plus, au titre II bis, de régime disciplinaire propre à ces professionnels ; le titre III conserve en revanche les sanctions pénales et administratives (articles 14 à 18).
+
+#### Section 2 — De la procédure disciplinaire
+
+### Article 13-5
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-5 ouvrait la section 2 du chapitre II, consacrée à la procédure disciplinaire. Il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, qui n'en reproduit pas le texte. Les articles 13-5-1 à 13-6, qui le suivent dans la même section, ont été abrogés à la même date et par le même texte.
+
+### Article 13-5-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-5-1 relevait de la section 2 (procédure disciplinaire) du chapitre II de l'ancien titre II bis. Selon la source, il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 13-5-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-5-2, inséré dans la section 2 (procédure disciplinaire), partage le sort des autres dispositions du chapitre II : il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source. Il est mentionné pour la complétude de la numérotation.
+
+### Article 13-5-3
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-5-3, dernier des articles intercalés après l'article 13-5 dans la section relative à la procédure disciplinaire, est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018. La source ne reproduit pas son contenu, que le commentaire ne reconstitue pas.
+
+### Article 13-6
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-6 clôturait la section 2 (procédure disciplinaire) du chapitre II. Il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, qui n'en reproduit pas le texte. Avec les articles 13-5 à 13-5-3, il constituait la procédure disciplinaire supprimée en 2018.
+
+#### Section 3 — Des décisions et des voies de recours
+
+### Article 13-7
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-7 ouvrait la section 3 du chapitre II, consacrée aux décisions et aux voies de recours en matière disciplinaire. Il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 13-8
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-8 appartenait à la section 3 (décisions et voies de recours) du chapitre II de l'ancien titre II bis. Selon la source, il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018. Cette abrogation éclaire l'article 14, a bis), qui réprime encore l'exercice en méconnaissance d'une interdiction d'exercer prononcée « en application de l'article 13-8 » : la disposition visée étant abrogée, l'incrimination renvoie à une base légale qui n'est plus en vigueur, ce qui en compromet l'application au regard du principe de légalité des délits et des peines.
+
+### Article 13-9
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-9, également placé dans la section 3 (décisions et voies de recours), est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, qui ne reproduit pas son texte. Il est mentionné pour la complétude de la numérotation du titre II bis.
+
+### Article 13-10
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 151)
+
+L'article 13-10 est le dernier article de l'ancien chapitre II du titre II bis. Comme les articles 13-4-1 à 13-9, il est abrogé à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source. Son contenu n'est pas reproduit. Le titre III (« Des sanctions pénales et administratives ») s'ouvre ensuite avec l'article 14.
 
 #### Titre III — Des sanctions pénales et administratives
 
@@ -234,7 +348,7 @@ L'article 13-4 renvoie à un décret les conditions d'application du titre II bi
 
 L'article 14 regroupe les délits sanctionnant les conditions d'accès et d'exercice, punis de six mois d'emprisonnement et de 7 500 euros d'amende. Le a) réprime l'exercice habituel, même accessoire, des opérations de l'article 1er sans carte professionnelle (art. 3), ainsi que la poursuite de l'activité après restitution de la carte ou en ayant omis de la restituer après injonction de l'autorité administrative. Les éléments constitutifs reprennent ceux de l'article 1er (habitude, opérations sur les biens d'autrui), si bien que les exclusions de l'article 2 et la dispense de l'article 8 constituent autant de causes d'inapplicabilité de l'incrimination. Le a bis A) protège les dénominations « agent immobilier », « syndic de copropriété » et « administrateur de biens », dont l'usage sans carte est punissable même en l'absence d'exercice effectif de l'activité.
 
-Le a bis) réprime l'exercice en méconnaissance d'une interdiction définitive ou temporaire d'exercer prononcée « en application de l'article 13-8 » et devenue définitive. Cette disposition ne figure pas dans le titre II bis de la version consolidée de la source, qui s'arrête à l'article 13-4 ; l'incrimination renvoie ainsi à une base légale absente du texte en vigueur, ce qui en compromet l'application au regard du principe de légalité des délits et des peines. Le b) sanctionne le défaut de déclaration préalable d'activité par le directeur d'un établissement (art. 3, onzième alinéa). Le c) vise le représentant légal ou statutaire d'une personne morale qui exerce sans remplir, ou après avoir cessé de remplir, les conditions d'aptitude et d'honorabilité (art. 3, 1° et 4°). Le d) sanctionne le défaut d'information sur les liens prévu à l'article 4-1.
+Le a bis) réprime l'exercice en méconnaissance d'une interdiction définitive ou temporaire d'exercer prononcée « en application de l'article 13-8 » et devenue définitive. Cette disposition a été abrogée à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, selon la source, et le titre II bis en vigueur s'arrête à l'article 13-4 ; l'incrimination renvoie ainsi à une base légale qui n'est plus en vigueur, ce qui en compromet l'application au regard du principe de légalité des délits et des peines. Le b) sanctionne le défaut de déclaration préalable d'activité par le directeur d'un établissement (art. 3, onzième alinéa). Le c) vise le représentant légal ou statutaire d'une personne morale qui exerce sans remplir, ou après avoir cessé de remplir, les conditions d'aptitude et d'honorabilité (art. 3, 1° et 4°). Le d) sanctionne le défaut d'information sur les liens prévu à l'article 4-1.
 
 Le dernier alinéa punit des mêmes peines le fait de négocier, s'entremettre ou prendre des engagements pour le compte d'un titulaire de carte sans y avoir été habilité dans les conditions de l'article 4. Les personnes morales peuvent être déclarées pénalement responsables de ces infractions (art. 18). La condamnation sur le fondement de l'article 14 ne figure pas dans la liste de l'article 9 et n'entraîne donc pas, par elle-même, l'incapacité d'exercer.
 

@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 70-9 du 2 janvier 1970, examinée article par article — **38 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 70-9 du 2 janvier 1970, examinée article par article — **51 articles** : les 38 articles en vigueur dans leur rédaction consolidée et 13 articles abrogés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,7 +22,7 @@ Le commentaire est réparti en deux chapitres :
 1. Titre Ier — exercice des activités d'entremise et de gestion des immeubles et fonds de commerce (art. 1er à 8-3) ;
 2. Titres II à IV — incapacités, Conseil national de la transaction et de la gestion immobilières, sanctions et dispositions diverses (art. 9 à 20).
 
-Lorsque des articles en vigueur renvoient à des dispositions absentes de la version consolidée (ainsi l'article 14, a bis), qui renvoie à un article 13-8 inexistant dans le titre II bis) ou à des numérotations d'autres codes non coordonnées (ainsi l'article 6, qui renvoie tantôt à l'article 1375, tantôt à l'article 1325 du code civil), le commentaire le signale sans reconstituer le contenu des dispositions manquantes.
+Les articles 13-2-1 à 13-10, qui relevaient d'une organisation du titre II bis en chapitres et sections (Conseil national ; discipline des professionnels) et ont été abrogés à compter du 25 novembre 2018 par l'article 151 de la loi n° 2018-1021 du 23 novembre 2018, sont reproduits tels que la source les présente, avec la date et le texte d'abrogation, afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu. Lorsque des articles en vigueur renvoient à des dispositions abrogées (ainsi l'article 14, a bis), qui renvoie à l'article 13-8) ou à des numérotations d'autres codes non coordonnées (ainsi l'article 6, qui renvoie tantôt à l'article 1375, tantôt à l'article 1325 du code civil), le commentaire le signale sans reconstituer le contenu des dispositions manquantes.
 
 ## Méthode
 
